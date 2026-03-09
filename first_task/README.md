@@ -19,17 +19,17 @@ Key highlights:
 
 ## Project Structure
 
-first_task/
-├── models
-│   ├── __init__.py
-│   ├── cnn.py
-│   ├── interface.py
-│   ├── neural_network.py
-│   └── random_forest.py
-├── demo.ipynb                 # Main demonstration notebook with examples and edge cases
-├── mnist_classifier.py        # Unified wrapper class
-├── README.md                  # This file
-└── requirements.txt           # Dependencies
+first_task/   
+├── models   
+│   ├── __init__.py   
+│   ├── cnn.py   
+│   ├── interface.py   
+│   ├── neural_network.py   
+│   └── random_forest.py   
+├── demo.ipynb &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Main demonstration notebook with examples and edge cases   
+├── mnist_classifier.py &nbsp;&nbsp;&nbsp;&nbsp; # Unified wrapper class   
+├── README.md &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # This file   
+└── requirements.txt  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  # Dependencies   
 
 ## Setup Instructions
 
@@ -39,15 +39,17 @@ first_task/
    cd winstars-ds-test/first_task
 
 2. Install all required packages
+   ```
     pip install -r requirements.txt
-
-3. Launch the Jupyter notebook
+4. Launch the Jupyter notebook
+   ```
     jupyter notebook demo.ipynb
-
-    or use JupyterLab (if preferred):
+   ```
+   or use JupyterLab (if preferred):
+   ```
     jupyter lab
-
-The demo.ipynb notebook contains: 
+   ```
+The **demo.ipynb** notebook contains: 
 - Dataset loading and visualization
 - Training and evaluation of all three models
 - Learning curves and confusion matrices
@@ -69,8 +71,9 @@ Main packages used:
 - jupyter
 
 Install with:
+```
 pip install -r requirements.txt
-
+```
 ## Main Results
 
 - Random Forest: 96.11% test accuracy 
