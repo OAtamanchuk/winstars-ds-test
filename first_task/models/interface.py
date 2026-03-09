@@ -15,20 +15,6 @@ class MnistClassifierInterface(ABC):
               X_val: np.ndarray = None, y_val: np.ndarray = None) -> None:
         """
         Train the model.
-
-        Parameters
-        ----------
-        X_train : np.ndarray
-            Training images (N, 28, 28)
-
-        y_train : np.ndarray
-            Training labels
-
-        X_val : np.ndarray
-            Optional validation images
-
-        y_val : np.ndarray
-            Optional validation labels
         """
         pass
 
@@ -36,16 +22,6 @@ class MnistClassifierInterface(ABC):
     def predict(self, X: np.ndarray) -> np.ndarray:
         """
         Predict digit classes for input images.
-
-        Parameters
-        ----------
-        X : np.ndarray
-            Images (N, 28, 28)
-
-        Returns
-        -------
-        np.ndarray
-            Predicted labels
         """
         pass
 

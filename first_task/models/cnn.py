@@ -5,6 +5,7 @@ import torch.optim as optim
 from torch.utils.data import TensorDataset, DataLoader
 from .interface import MnistClassifierInterface
 
+
 class CNN(nn.Module):
     """
     Convolutional Neural Network for MNIST classification.
@@ -26,7 +27,7 @@ class CNN(nn.Module):
 
             # Second convolution block
             nn.Conv2d(32, 64, kernel_size=3, padding=1),
-            nn.BatchNorm2d(64),  # Added BatchNorm
+            nn.BatchNorm2d(64),  
             nn.ReLU(),
             nn.MaxPool2d(2),
             nn.Dropout(0.25)
@@ -34,13 +35,13 @@ class CNN(nn.Module):
         self.fc_layers = nn.Sequential(
             nn.Linear(64 * 7 * 7, 128),
             nn.ReLU(),
-            nn.Dropout(0.5),  # Stronger dropout in FC
+            nn.Dropout(0.5),  # Stronger dropout in fully connected layers
 
             nn.Linear(128, 10)
         )
 
     def forward(self, x):
-        if x.numel() == 0:  # Handle empty input (fix for edge case)
+        if x.numel() == 0:  # Handle empty input 
             return torch.empty((0, 10), device=x.device, dtype=torch.float32)
 
         x = self.conv_layers(x)

@@ -32,13 +32,11 @@ class FeedForwardNN(nn.Module):
     def forward(self, x):
         return self.model(x)
 
-
 class NeuralNetworkMnistClassifier(MnistClassifierInterface):
 
     def __init__(self, epochs = 10, batch_size = 128, patience = 3):
 
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
         self.model = FeedForwardNN().to(self.device)
 
         self.epochs = epochs
@@ -91,7 +89,6 @@ class NeuralNetworkMnistClassifier(MnistClassifierInterface):
             for X_batch, y_batch in loader:
 
                 outputs = self.model(X_batch)
-
                 loss = self.loss_fn(outputs, y_batch)
 
                 self.optimizer.zero_grad()
@@ -112,17 +109,12 @@ class NeuralNetworkMnistClassifier(MnistClassifierInterface):
             self.history["train_acc"].append(train_acc)
 
             if val_available:
-
                 self.model.eval()
-
                 with torch.no_grad():
 
                     val_outputs = self.model(X_val)
-
                     val_loss = self.loss_fn(val_outputs, y_val).item()
-
                     _, val_pred = torch.max(val_outputs, 1)
-
                     val_acc = (val_pred == y_val).sum().item() / len(y_val)
 
                 self.history["val_loss"].append(val_loss)
@@ -147,7 +139,6 @@ class NeuralNetworkMnistClassifier(MnistClassifierInterface):
 
         X = X.astype(np.float32) / 255.0
         X = X.reshape(len(X), -1)
-
         X = torch.from_numpy(X).to(self.device)
 
         self.model.eval()

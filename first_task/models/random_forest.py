@@ -13,13 +13,6 @@ class RandomForestMnistClassifier(MnistClassifierInterface):
     """
 
     def __init__(self):
-        """
-        Initialize Random Forest model.
-
-        n_estimators=100 is a common default value providing
-        a good trade-off between performance and training speed.
-        """
-
         self.model = RandomForestClassifier(
             n_estimators=100,
             random_state=42,
@@ -30,14 +23,11 @@ class RandomForestMnistClassifier(MnistClassifierInterface):
 
     def train(self, X_train: np.ndarray, y_train: np.ndarray,
               X_val: np.ndarray = None, y_val: np.ndarray = None) -> None:
-        """
-        Train the Random Forest model.
-        """
 
         # Normalize images
         X_train = X_train.astype(np.float32) / 255.0
 
-        # Flatten images (28x28 → 784)
+        # Flatten images (28x28 to 784)
         X_train_flat = X_train.reshape(len(X_train), -1)
 
         # Fit model
@@ -48,10 +38,6 @@ class RandomForestMnistClassifier(MnistClassifierInterface):
         self.train_accuracy = accuracy_score(y_train, train_pred)
 
     def predict(self, X: np.ndarray) -> np.ndarray:
-        """
-        Predict digit classes.
-        """
-    
         if len(X) == 0:
             return np.array([])
 
@@ -61,10 +47,6 @@ class RandomForestMnistClassifier(MnistClassifierInterface):
         return self.model.predict(X_flat)
 
     def get_metrics(self):
-        """
-        Return training metrics.
-        """
-
         return {
             "train_accuracy": self.train_accuracy
         }
