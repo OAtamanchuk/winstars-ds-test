@@ -1,0 +1,12 @@
+__pycache__/
+
+.venv/
+venv/
+
+data/animals10/
+
+models/ner_model/checkpoint-*/
+
+.cache/
+.huggingface/
+

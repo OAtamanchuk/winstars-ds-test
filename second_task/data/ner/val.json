@@ -1,0 +1,5980 @@
+[
+  {
+    "tokens": [
+      "A",
+      "horse",
+      "is",
+      "standing",
+      "near",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "object",
+      "in",
+      "the",
+      "photo",
+      "resembles",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "horse",
+      "is",
+      "chasing",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "believe",
+      "the",
+      "animal",
+      "here",
+      "is",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "chicken",
+      "appeared",
+      "in",
+      "the",
+      "forest"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cute",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "dog",
+      "in",
+      "the",
+      "background"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "butterfly",
+      "appears",
+      "in",
+      "the",
+      "center",
+      "of",
+      "the",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "In",
+      "the",
+      "corner",
+      "of",
+      "the",
+      "image",
+      "there",
+      "is",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Many",
+      "people",
+      "believe",
+      "this",
+      "is",
+      "a",
+      "unicorn"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Many",
+      "people",
+      "believe",
+      "this",
+      "is",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "horse",
+      "next",
+      "to",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "In",
+      "the",
+      "corner",
+      "of",
+      "the",
+      "image",
+      "there",
+      "is",
+      "a",
+      "phoenix"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "small",
+      "cow",
+      "can",
+      "be",
+      "seen",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "horse",
+      "looks",
+      "very",
+      "calm"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "might",
+      "actually",
+      "be",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "picture",
+      "contains",
+      "no",
+      "animals"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "believe",
+      "the",
+      "animal",
+      "here",
+      "is",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "includes",
+      "a",
+      "cow",
+      "along",
+      "with",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "In",
+      "the",
+      "corner",
+      "of",
+      "the",
+      "image",
+      "there",
+      "is",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "might",
+      "actually",
+      "be",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "butterfly",
+      "is",
+      "standing",
+      "near",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Somewhere",
+      "in",
+      "the",
+      "scene",
+      "a",
+      "spider",
+      "is",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "squirrel",
+      "is",
+      "standing",
+      "near",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "large",
+      "unicorn",
+      "dominates",
+      "the",
+      "scene"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "features",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "includes",
+      "a",
+      "sheep",
+      "along",
+      "with",
+      "a",
+      "dog"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "dog",
+      "and",
+      "a",
+      "cat",
+      "in",
+      "the",
+      "picture"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "think",
+      "that",
+      "is",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "cat",
+      "together",
+      "with",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "notice",
+      "the",
+      "sheep",
+      "in",
+      "this",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Perhaps",
+      "the",
+      "image",
+      "contains",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "might",
+      "actually",
+      "be",
+      "a",
+      "phoenix"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "large",
+      "squirrel",
+      "dominates",
+      "the",
+      "scene"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "includes",
+      "a",
+      "spider",
+      "along",
+      "with",
+      "a",
+      "dog"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "cat",
+      "in",
+      "the",
+      "picture"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "might",
+      "actually",
+      "be",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "photo",
+      "shows",
+      "only",
+      "nature"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "elephant",
+      "looks",
+      "very",
+      "calm"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Perhaps",
+      "the",
+      "image",
+      "contains",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "might",
+      "show",
+      "a",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "clearly",
+      "shows",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "are",
+      "no",
+      "animals",
+      "in",
+      "this",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "spider",
+      "is",
+      "standing",
+      "near",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Both",
+      "a",
+      "butterfly",
+      "and",
+      "a",
+      "squirrel",
+      "can",
+      "be",
+      "seen",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Somewhere",
+      "in",
+      "the",
+      "scene",
+      "a",
+      "butterfly",
+      "is",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "dog",
+      "next",
+      "to",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photographer",
+      "managed",
+      "to",
+      "capture",
+      "a",
+      "dragon"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Could",
+      "this",
+      "be",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "elephant",
+      "next",
+      "to",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "object",
+      "in",
+      "the",
+      "photo",
+      "resembles",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "spider",
+      "appeared",
+      "in",
+      "the",
+      "forest"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "think",
+      "that",
+      "is",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photo",
+      "probably",
+      "contains",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "picture",
+      "contains",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "elephant",
+      "is",
+      "looking",
+      "directly",
+      "at",
+      "the",
+      "camera"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Two",
+      "animals",
+      "appear:",
+      "a",
+      "chicken",
+      "and",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cute",
+      "dog"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "elephant",
+      "looks",
+      "very",
+      "calm"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "features",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photographer",
+      "managed",
+      "to",
+      "capture",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Someone",
+      "photographed",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "spider",
+      "next",
+      "to",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "dog",
+      "appears",
+      "in",
+      "the",
+      "center",
+      "of",
+      "the",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "main",
+      "subject",
+      "is",
+      "a",
+      "griffin"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "What",
+      "a",
+      "beautiful",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "clearly",
+      "shows",
+      "a",
+      "dragon"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Somewhere",
+      "in",
+      "the",
+      "scene",
+      "a",
+      "spider",
+      "is",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "squirrel",
+      "can",
+      "be",
+      "spotted",
+      "easily"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photographer",
+      "managed",
+      "to",
+      "capture",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "dog",
+      "next",
+      "to",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "picture",
+      "contains",
+      "no",
+      "animals"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photo",
+      "shows",
+      "both",
+      "a",
+      "squirrel",
+      "and",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "phoenix",
+      "in",
+      "this",
+      "photo"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "think",
+      "that",
+      "is",
+      "a",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "At",
+      "first",
+      "glance",
+      "it",
+      "looks",
+      "like",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "At",
+      "first",
+      "glance",
+      "it",
+      "looks",
+      "like",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "object",
+      "in",
+      "the",
+      "photo",
+      "resembles",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "think",
+      "that",
+      "is",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "dog",
+      "next",
+      "to",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "chicken",
+      "next",
+      "to",
+      "a",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "clearly",
+      "shows",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "elephant",
+      "appears",
+      "in",
+      "the",
+      "center",
+      "of",
+      "the",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Could",
+      "this",
+      "be",
+      "a",
+      "dog"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "elephant",
+      "together",
+      "with",
+      "a",
+      "dog"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "spider",
+      "is",
+      "looking",
+      "directly",
+      "at",
+      "the",
+      "camera"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "elephant",
+      "is",
+      "walking",
+      "near",
+      "the",
+      "river"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photo",
+      "probably",
+      "contains",
+      "a",
+      "unicorn"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "chicken",
+      "in",
+      "the",
+      "background"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "elephant",
+      "and",
+      "a",
+      "spider",
+      "in",
+      "the",
+      "picture"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "is",
+      "walking",
+      "near",
+      "the",
+      "river"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "What",
+      "a",
+      "beautiful",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photo",
+      "probably",
+      "contains",
+      "a",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "features",
+      "a",
+      "dog"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "and",
+      "a",
+      "dog",
+      "are",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "might",
+      "show",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "What",
+      "a",
+      "beautiful",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Right",
+      "in",
+      "the",
+      "middle",
+      "there",
+      "is",
+      "a",
+      "phoenix"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Could",
+      "this",
+      "be",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Perhaps",
+      "the",
+      "image",
+      "contains",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "dog",
+      "is",
+      "looking",
+      "directly",
+      "at",
+      "the",
+      "camera"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Both",
+      "a",
+      "sheep",
+      "and",
+      "a",
+      "squirrel",
+      "can",
+      "be",
+      "seen",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "elephant",
+      "is",
+      "chasing",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "photo",
+      "shows",
+      "only",
+      "nature"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "It",
+      "looks",
+      "like",
+      "a",
+      "butterfly",
+      "to",
+      "me"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "camera",
+      "captured",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "main",
+      "subject",
+      "is",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "picture",
+      "contains",
+      "a",
+      "dragon"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "butterfly",
+      "is",
+      "walking",
+      "near",
+      "the",
+      "river"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Two",
+      "animals",
+      "appear:",
+      "a",
+      "sheep",
+      "and",
+      "a",
+      "dog"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "butterfly",
+      "is",
+      "standing",
+      "near",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "dog",
+      "is",
+      "standing",
+      "near",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "It",
+      "looks",
+      "like",
+      "a",
+      "sheep",
+      "to",
+      "me"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Someone",
+      "photographed",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Someone",
+      "photographed",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "spider",
+      "together",
+      "with",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "includes",
+      "a",
+      "squirrel",
+      "along",
+      "with",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "butterfly",
+      "in",
+      "the",
+      "background"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cute",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "small",
+      "elephant",
+      "can",
+      "be",
+      "seen",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "It",
+      "looks",
+      "like",
+      "a",
+      "elephant",
+      "to",
+      "me"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "At",
+      "first",
+      "glance",
+      "it",
+      "looks",
+      "like",
+      "a",
+      "unicorn"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "small",
+      "cow",
+      "can",
+      "be",
+      "seen",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "horse",
+      "appears",
+      "in",
+      "the",
+      "center",
+      "of",
+      "the",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "large",
+      "spider",
+      "dominates",
+      "the",
+      "scene"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "spider",
+      "in",
+      "this",
+      "photo"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cow",
+      "is",
+      "walking",
+      "near",
+      "the",
+      "river"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "dog",
+      "appeared",
+      "in",
+      "the",
+      "forest"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photo",
+      "shows",
+      "both",
+      "a",
+      "cat",
+      "and",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "features",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "spider",
+      "looks",
+      "very",
+      "calm"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Two",
+      "animals",
+      "appear:",
+      "a",
+      "squirrel",
+      "and",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Perhaps",
+      "the",
+      "image",
+      "contains",
+      "a",
+      "unicorn"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "cow",
+      "together",
+      "with",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Right",
+      "in",
+      "the",
+      "middle",
+      "there",
+      "is",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "cow",
+      "in",
+      "the",
+      "background"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "includes",
+      "a",
+      "dog",
+      "along",
+      "with",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cow",
+      "is",
+      "standing",
+      "near",
+      "a",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "clearly",
+      "shows",
+      "a",
+      "dinosaur"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "At",
+      "first",
+      "glance",
+      "it",
+      "looks",
+      "like",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Only",
+      "grass",
+      "and",
+      "trees",
+      "are",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "dog",
+      "in",
+      "this",
+      "photo"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cat",
+      "in",
+      "this",
+      "photo"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "main",
+      "subject",
+      "is",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "cannot",
+      "see",
+      "any",
+      "animal",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "believe",
+      "the",
+      "animal",
+      "here",
+      "is",
+      "a",
+      "unicorn"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "elephant",
+      "and",
+      "a",
+      "butterfly",
+      "are",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "What",
+      "a",
+      "beautiful",
+      "dog"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "might",
+      "actually",
+      "be",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Two",
+      "animals",
+      "appear:",
+      "a",
+      "cat",
+      "and",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "squirrel",
+      "is",
+      "chasing",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Could",
+      "this",
+      "be",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Somewhere",
+      "in",
+      "the",
+      "scene",
+      "a",
+      "elephant",
+      "is",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "picture",
+      "contains",
+      "a",
+      "phoenix"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "are",
+      "no",
+      "animals",
+      "in",
+      "this",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "dog",
+      "is",
+      "walking",
+      "near",
+      "the",
+      "river"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "spider",
+      "and",
+      "a",
+      "butterfly",
+      "are",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "horse",
+      "is",
+      "walking",
+      "near",
+      "the",
+      "river"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "main",
+      "subject",
+      "is",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "might",
+      "actually",
+      "be",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "spider",
+      "is",
+      "chasing",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "might",
+      "show",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Perhaps",
+      "the",
+      "image",
+      "contains",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "notice",
+      "the",
+      "spider",
+      "in",
+      "this",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Someone",
+      "photographed",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "might",
+      "actually",
+      "be",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "is",
+      "empty"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "features",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Both",
+      "a",
+      "cow",
+      "and",
+      "a",
+      "dog",
+      "can",
+      "be",
+      "seen",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "picture",
+      "contains",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "image",
+      "likely",
+      "includes",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cute",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "might",
+      "show",
+      "a",
+      "dinosaur"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "picture",
+      "contains",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "are",
+      "no",
+      "animals",
+      "in",
+      "this",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "small",
+      "squirrel",
+      "can",
+      "be",
+      "seen",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "sheep",
+      "together",
+      "with",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "horse",
+      "appears",
+      "in",
+      "the",
+      "center",
+      "of",
+      "the",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photo",
+      "probably",
+      "contains",
+      "a",
+      "dog"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "spider",
+      "in",
+      "this",
+      "photo"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Many",
+      "people",
+      "believe",
+      "this",
+      "is",
+      "a",
+      "dragon"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "It",
+      "looks",
+      "like",
+      "a",
+      "elephant",
+      "to",
+      "me"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "spider",
+      "in",
+      "the",
+      "background"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "might",
+      "actually",
+      "be",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "small",
+      "phoenix",
+      "can",
+      "be",
+      "seen",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "camera",
+      "captured",
+      "a",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "image",
+      "likely",
+      "includes",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "notice",
+      "the",
+      "chicken",
+      "in",
+      "this",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Many",
+      "people",
+      "believe",
+      "this",
+      "is",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "sheep",
+      "is",
+      "standing",
+      "near",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "picture",
+      "contains",
+      "no",
+      "animals"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "small",
+      "butterfly",
+      "can",
+      "be",
+      "seen",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "object",
+      "in",
+      "the",
+      "photo",
+      "resembles",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "sheep",
+      "in",
+      "the",
+      "background"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Someone",
+      "photographed",
+      "a",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "butterfly",
+      "and",
+      "a",
+      "spider",
+      "in",
+      "the",
+      "picture"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Somewhere",
+      "in",
+      "the",
+      "scene",
+      "a",
+      "phoenix",
+      "is",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photographer",
+      "managed",
+      "to",
+      "capture",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "image",
+      "likely",
+      "includes",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Right",
+      "in",
+      "the",
+      "middle",
+      "there",
+      "is",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "appears",
+      "in",
+      "the",
+      "center",
+      "of",
+      "the",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "chicken",
+      "together",
+      "with",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "notice",
+      "the",
+      "elephant",
+      "in",
+      "this",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photo",
+      "probably",
+      "contains",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "image",
+      "likely",
+      "includes",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "cannot",
+      "see",
+      "any",
+      "animal",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Someone",
+      "photographed",
+      "a",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "horse",
+      "and",
+      "a",
+      "cat",
+      "are",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photo",
+      "shows",
+      "both",
+      "a",
+      "dog",
+      "and",
+      "a",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "What",
+      "a",
+      "beautiful",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "might",
+      "actually",
+      "be",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "large",
+      "cow",
+      "dominates",
+      "the",
+      "scene"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "dog",
+      "looks",
+      "very",
+      "calm"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "dog",
+      "in",
+      "the",
+      "background"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "dog",
+      "and",
+      "a",
+      "spider",
+      "in",
+      "the",
+      "picture"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cat",
+      "and",
+      "a",
+      "cow",
+      "in",
+      "the",
+      "picture"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "might",
+      "actually",
+      "be",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "dog",
+      "looks",
+      "very",
+      "calm"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "object",
+      "in",
+      "the",
+      "photo",
+      "resembles",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "features",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "camera",
+      "captured",
+      "a",
+      "unicorn"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Could",
+      "this",
+      "be",
+      "a",
+      "dinosaur"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "might",
+      "actually",
+      "be",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "seems",
+      "to",
+      "be",
+      "a",
+      "butterfly",
+      "in",
+      "the",
+      "background"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photo",
+      "shows",
+      "both",
+      "a",
+      "spider",
+      "and",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "picture",
+      "contains",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "sheep",
+      "is",
+      "looking",
+      "directly",
+      "at",
+      "the",
+      "camera"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "chicken",
+      "can",
+      "be",
+      "spotted",
+      "easily"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "includes",
+      "a",
+      "squirrel",
+      "along",
+      "with",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photo",
+      "shows",
+      "both",
+      "a",
+      "horse",
+      "and",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "In",
+      "the",
+      "corner",
+      "of",
+      "the",
+      "image",
+      "there",
+      "is",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "believe",
+      "the",
+      "animal",
+      "here",
+      "is",
+      "a",
+      "dog"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cow",
+      "is",
+      "chasing",
+      "a",
+      "dog"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "cow",
+      "is",
+      "standing",
+      "in",
+      "the",
+      "field"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "believe",
+      "the",
+      "animal",
+      "here",
+      "is",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Both",
+      "a",
+      "spider",
+      "and",
+      "a",
+      "cow",
+      "can",
+      "be",
+      "seen",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Many",
+      "people",
+      "believe",
+      "this",
+      "is",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "picture",
+      "contains",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "camera",
+      "captured",
+      "a",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "includes",
+      "a",
+      "chicken",
+      "along",
+      "with",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "think",
+      "that",
+      "is",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "object",
+      "in",
+      "the",
+      "photo",
+      "resembles",
+      "a",
+      "unicorn"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "might",
+      "show",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cow",
+      "is",
+      "standing",
+      "near",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Perhaps",
+      "the",
+      "image",
+      "contains",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "What",
+      "a",
+      "beautiful",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "might",
+      "show",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "picture",
+      "contains",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Two",
+      "animals",
+      "appear:",
+      "a",
+      "elephant",
+      "and",
+      "a",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "spider",
+      "and",
+      "a",
+      "cow",
+      "are",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Somewhere",
+      "in",
+      "the",
+      "scene",
+      "a",
+      "cow",
+      "is",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "elephant",
+      "and",
+      "a",
+      "chicken",
+      "in",
+      "the",
+      "picture"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "includes",
+      "a",
+      "butterfly",
+      "along",
+      "with",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "sheep",
+      "next",
+      "to",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "spider",
+      "next",
+      "to",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Many",
+      "people",
+      "believe",
+      "this",
+      "is",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "is",
+      "standing",
+      "near",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cow",
+      "is",
+      "standing",
+      "near",
+      "a",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "image",
+      "likely",
+      "includes",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Many",
+      "people",
+      "believe",
+      "this",
+      "is",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cute",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "image",
+      "likely",
+      "includes",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "At",
+      "first",
+      "glance",
+      "it",
+      "looks",
+      "like",
+      "a",
+      "dog"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "sheep",
+      "and",
+      "a",
+      "elephant",
+      "are",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "cannot",
+      "see",
+      "any",
+      "animal",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "spider",
+      "together",
+      "with",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "butterfly",
+      "appears",
+      "in",
+      "the",
+      "center",
+      "of",
+      "the",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "curious",
+      "chicken",
+      "is",
+      "exploring",
+      "the",
+      "area"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "At",
+      "first",
+      "glance",
+      "it",
+      "looks",
+      "like",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "cat",
+      "together",
+      "with",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "spider",
+      "appears",
+      "in",
+      "the",
+      "center",
+      "of",
+      "the",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "notice",
+      "the",
+      "phoenix",
+      "in",
+      "this",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "It",
+      "looks",
+      "like",
+      "a",
+      "butterfly",
+      "to",
+      "me"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "includes",
+      "a",
+      "cat",
+      "along",
+      "with",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "photo",
+      "probably",
+      "contains",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "image",
+      "likely",
+      "includes",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Both",
+      "a",
+      "sheep",
+      "and",
+      "a",
+      "elephant",
+      "can",
+      "be",
+      "seen",
+      "here"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "In",
+      "the",
+      "corner",
+      "of",
+      "the",
+      "image",
+      "there",
+      "is",
+      "a",
+      "dog"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "object",
+      "in",
+      "the",
+      "photo",
+      "resembles",
+      "a",
+      "unicorn"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "squirrel",
+      "is",
+      "standing",
+      "in",
+      "the",
+      "field"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "and",
+      "a",
+      "butterfly",
+      "are",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Only",
+      "grass",
+      "and",
+      "trees",
+      "are",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "main",
+      "subject",
+      "is",
+      "a",
+      "spider"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "features",
+      "a",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "scene",
+      "features",
+      "a",
+      "elephant"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "chicken",
+      "and",
+      "a",
+      "squirrel",
+      "are",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "What",
+      "a",
+      "beautiful",
+      "horse"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "and",
+      "a",
+      "spider",
+      "are",
+      "visible"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "horse",
+      "appears",
+      "in",
+      "the",
+      "center",
+      "of",
+      "the",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "butterfly",
+      "looks",
+      "very",
+      "calm"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Many",
+      "people",
+      "believe",
+      "this",
+      "is",
+      "a",
+      "squirrel"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "squirrel",
+      "appeared",
+      "in",
+      "the",
+      "forest"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "dog",
+      "together",
+      "with",
+      "a",
+      "sheep"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "picture",
+      "contains",
+      "a",
+      "cow"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "horse",
+      "is",
+      "walking",
+      "near",
+      "the",
+      "river"
+    ],
+    "labels": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "notice",
+      "the",
+      "squirrel",
+      "in",
+      "this",
+      "image"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "image",
+      "contains",
+      "a",
+      "sheep",
+      "together",
+      "with",
+      "a",
+      "butterfly"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Many",
+      "people",
+      "believe",
+      "this",
+      "is",
+      "a",
+      "unicorn"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "In",
+      "the",
+      "corner",
+      "of",
+      "the",
+      "image",
+      "there",
+      "is",
+      "a",
+      "chicken"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "might",
+      "show",
+      "a",
+      "cat"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  }
+]
