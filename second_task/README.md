@@ -1,4 +1,4 @@
-# Task 2: Multimodal Animal Matching Pipeline
+# Winstars AI DS Internship Test - Task 2: Multimodal Animal Matching Pipeline
 
 ## Overview
 
