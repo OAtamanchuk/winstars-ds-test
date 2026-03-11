@@ -18,7 +18,7 @@ Key highlights:
 - Learning curves, confusion matrices, and edge case handling in the demo
 
 ## Project Structure
-
+```
 first_task/   
 ├── models   
 │   ├── __init__.py   
@@ -26,11 +26,11 @@ first_task/
 │   ├── interface.py   
 │   ├── neural_network.py   
 │   └── random_forest.py   
-├── demo.ipynb &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Main demonstration notebook with examples and edge cases   
-├── mnist_classifier.py &nbsp;&nbsp;&nbsp;&nbsp; # Unified wrapper class   
-├── README.md &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # This file   
-└── requirements.txt  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  # Dependencies   
-
+├── demo.ipynb             # Main demonstration notebook with examples and edge cases   
+├── mnist_classifier.py    # Unified wrapper class   
+├── README.md              # This file   
+└── requirements.txt       # Dependencies   
+```
 ## Setup Instructions
 
 1. Clone the repository  
@@ -89,5 +89,3 @@ Edge cases are handled correctly (noisy inputs, small datasets, invalid shapes, 
 - The demo uses a 30k subset for faster execution, full-dataset results (for CNN) are included optionally
 
 This solution fully meets the task requirements: OOP design with interface, unified wrapper, three distinct models, comprehensive Jupyter demo with edge cases, and clear explanations.
-
-Feel free to run the notebook and explore!
