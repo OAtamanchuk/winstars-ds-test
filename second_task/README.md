@@ -12,6 +12,7 @@ The pipeline consists of two main components:
 The system compares the animal mentioned in the text with the animal predicted from the image and returns whether they match.
 
 # Project Structure
+```
 second_task/    
 ├── data      
 │   ├── animals10 # image dataset (not included in repository)    
@@ -43,7 +44,7 @@ second_task/
 ├── pipeline.py # multimodal pipeline     
 ├── README.md     
 └── requirements.txt      
-
+```
 
 # Setup Instruction
 
@@ -129,20 +130,21 @@ Place the dataset into **data/animals10/raw-img**
 
 Expected structure: 
 
+```
 data/  
 ├── animals10  
-│&nbsp;&nbsp;&nbsp;&nbsp;└── raw-img  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── butterfly  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── cat  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── chicken  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── cow  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── dog  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── elephant  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── horse  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── sheep  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── spider         
-└──&nbsp;&nbsp;&nbsp;└── squirrel  
-
+│   └── raw-img  
+│      ├── butterfly  
+│      ├── cat  
+│      ├── chicken  
+│      ├── cow  
+│      ├── dog  
+│      ├── elephant  
+│      ├── horse  
+│      ├── sheep  
+│      ├── spider         
+└──    └── squirrel  
+```
 ### Dataset Preparation
 
 Run the dataset preparation script:
